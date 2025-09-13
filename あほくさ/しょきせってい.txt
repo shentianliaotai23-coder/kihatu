@@ -1,0 +1,220 @@
+しょきせってい
+自分たちで、神話をつくってしまえばいいじゃないか
+初期カード候補
+死術師
+最初はクトゥルフ系の要素がないが、基本の属性に、深きものなどクトゥルフ属性のカードが混ざるとほかの属性がつかえるようになる
+放浪者
+祭祀
+禁術
+始原
+基礎ルール
+信徒
+暗殺者
+星振
+デッキ枚数１０枚(仮）5枚のみ引ける使い終わったら墓地へ行く
+火
+カード種類(融合属性) 
+水
+毒
+夢
+混沌
+カードを融合、解除できる
+影
+斬撃
+儀式
+異界
+ターン制
+後で、最終進化の属性に使いたいやつ
+啓蒙
+静寂
+正気
+破滅
+敗北条件としてSAN値、Hｐが0になること
+奇跡
+対戦系
+協力、ストーリーモードとか
+眠れる知識
+呪い
+カード融合してクトゥルフ
+禁足地
+撃破報酬コイン、カード、レリックの破片カード(中ボス)
+虚無
+心理
+血脈
+時間
+神格
+破滅
+知覚
+場面 戦闘、ボロ小屋、儀式場、遺跡、イベント系、理不尽系、鍛冶屋、夢
+乖離
+因果
+狂気
+重複存在
+イッコルの詠唱
+名を超えた声
+悟りの淵
+自我の終焉
+意志の中の眼
+疫病
+深きもの
+無限蝕
+
+しょきせってい、ほんちゃん
+Summary Document Introduction The narrative begins with an individual awakening in a surreal and distorted realm, where the world as they knew it has ended. This place is enveloped in a sticky darkness, devoid of sky or ground, and filled with unsettling, shifting forms that defy comprehension. The protagonist struggles with their sense of reality, questioning whether they are dreaming, as their memories and identity remain elusive. Key Themes and Elements Surreal Environment: The setting is a bizarre and otherworldly domain, characterized by a lack of familiar structures and filled with amorphous, eye-like figures that dissolve upon scrutiny. Loss of Identity: The protagonist cannot recall their name or the reason for their presence in this realm, only remembering their recent experience on a commuter train. Unintelligible Communication: The protagonist perceives a non-verbal "sound" that resonates through their bones, conveying an incomprehensible yet disturbingly understandable message. Existential Dread: The narrative evokes a sense of dread and erosion of sanity as the protagonist becomes aware of a massive shadow in the distance. Game Mechanics and Concepts Character Roles: Various roles such as "死術師" (Death Sorcerer), "放浪者" (Wanderer), and "暗殺者" (Assassin) are mentioned, each with specific attributes and skills. Attributes and Skills: Characters have attributes like health, attack, defense, SAN (sanity) value, and luck. Skills include actions like "拳" (Fist), "受け流し" (Parry), and "避ける" (Dodge). Card System: The game involves a card-based system with fusion attributes, allowing for strategic gameplay. Players can draw from a deck, and used cards go to a graveyard. SAN Value: Sanity is a critical aspect, with the loss of SAN leading to defeat. Encounters with "深きもの" (Deep Ones) can trigger illusory battles that reduce SAN. Exploration and Choice: Players navigate through various scenes, making choices that affect their path. Low SAN can obscure decision-making. Mythos and Lore Cthulhu Mythos Influence: The game incorporates elements from the Cthulhu Mythos, with references to "古き神々" (Old Gods) and "奈落の使徒" (Abyssal Apostles). Creation of Myths: The narrative suggests the possibility of creating new myths, blending existing mythological elements with original concepts. Forbidden Knowledge: Themes of forbidden rituals and ancient knowledge are prevalent, with references to "禁術" (Forbidden Arts) and "名もなき神々" (Nameless Gods). Conclusion The document outlines a complex narrative and gameplay system that intertwines existential horror with strategic card-based mechanics. Players are immersed in a world where reality is fluid, and sanity is a precious resource, navigating through a landscape influenced by Lovecraftian themes and original mythos creation. 
+要約文書 序章 物語は、個人が超現実的で歪んだ領域で目覚めるところから始まります。そこでは彼らが知っていた世界が終わっています。この場所は粘着性のある暗闇に包まれており、空や地面がなく、理解を超えた不安定で変化する形が満ちています。主人公は現実感に苦しみ、夢を見ているのかを問い、記憶やアイデンティティが曖昧なままです。 主要なテーマと要素 超現実的な環境: 設定は奇妙で異世界的な領域であり、親しみのある構造が欠如しており、凝視すると溶けるようなアメーバ状の目のような形が満ちています。 アイデンティティの喪失: 主人公は自分の名前やこの領域にいる理由を思い出せず、最近の通勤電車での経験だけを覚えています。 理解不能なコミュニケーション: 主人公は骨を通して共鳴する非言語的な「音」を感じ、それが理解不能でありながら不気味に理解できるメッセージを伝えます。 存在の恐怖: 物語は恐怖と正気の侵食を呼び起こし、主人公が遠くに巨大な影を認識するにつれてその感覚が強まります。    ゲームのメカニクスとコンセプト キャラクターの役割: 「死術師」、「放浪者」、「暗殺者」などの様々な役割が言及されており、それぞれに特定の属性とスキルがあります。 属性とスキル: キャラクターは健康、攻撃、防御、SAN（正気）値、運などの属性を持っています。スキルには「拳」、「受け流し」、「避ける」などのアクションが含まれます。 カードシステム: ゲームは融合属性を持つカードベースのシステムを含んでおり、戦略的なゲームプレイを可能にします。プレイヤーはデッキからカードを引き、使用済みのカードは墓地に送られます。 SAN値: 正気は重要な側面であり、SANの喪失は敗北につながります。「深きもの」との遭遇は幻覚的な戦闘を引き起こし、SANを減少させます。 探索と選択: プレイヤーは様々なシーンを通じてナビゲートし、道を決定する選択を行います。低いSANは意思決定を曇らせる可能性があります。 神話と伝承 クトゥルフ神話の影響: ゲームはクトゥルフ神話の要素を取り入れており、「古き神々」や「奈落の使徒」への言及があります。 神話の創造: 物語は既存の神話的要素とオリジナルのコンセプトを融合させ、新しい神話を創造する可能性を示唆しています。 禁じられた知識: 禁じられた儀式や古代の知識のテーマが蔓延しており、「禁術」や「名もなき神々」への言及があります。 結論 この文書は、存在の恐怖と戦略的なカードベースのメカニクスを絡めた複雑な物語とゲームシステムを概説しています。プレイヤーは現実が流動的で正気が貴重な資源である世界に没入し、ラヴクラフト的なテーマとオリジナルの神話創造に影響を受けた風景をナビゲートします。 
+状態異常として、味方に能力は貸し出せないが、カードの貸し出しができる  ８０ぱーせんとくらいに減衰される
+敵
+キャラ 
+ストーリー
+外なるもの
+探索者
+古き神々
+名もなき神々
+旅人
+失敗作たち
+探求者
+爛れ続けるもの
+信仰の化身
+味方に自分のカードを使うことができる
+守り人
+イッコル
+奈落の使徒
+異形覚醒団 
+考古学者
+観測者
+放浪者
+エフェクトかっこよくしようね 指パッチンしてくれ  キャラデザバカ頑張って、えふぇくともりもり 
+星振の証人
+土偶
+祭祀
+スタート時に能力がある
+蛮族
+復讐者
+迷い人
+深きものと遭遇した後はなんでも敵に見えてダミーの戦闘が始まる、実際のダメージは受けないが、SAN値がさがる 
+再誕者
+絵で細かく、HPとさんちを表現  ５段階ぐらいでかんがえる  体力５０パーセントまでは普通 あともっと下がってくと血出てくれたら、いいかな   がちがちの初心者はHPでるけど、     
+拳４
+受け流し４
+避ける２
+  スキルツリー カードを追加でもらえる
+放浪者
+ステータス体力10 攻撃力０ 防御力１ SAN値１００ 幸運値２０/１００ スキルツリー
+かーどを もやす 
+テスト
+放浪者
+敵
+ステータス体力３ 攻撃力１ 防御力１ 
+ステータス体力10 攻撃力１ 防御力１ SAN値１００ 幸運値２０/１００ スキルツリー
+  スキルツリー お金を多くもらえる
+毒薬２
+隠しナイフ４
+防御仮４
+暗殺者
+ステータス体力10 攻撃力１ 防御力０ SAN値１００ 幸運値１０/１００ スキルツリー
+かーどみえる　   
+開始時、0からエネルギーたまる2ターン目から融合できる融合カードを使うには融合に使ったエネルギーを使う 
+拳４
+避ける２
+受け流し４
+防御仮４
+祈祷２
+儀式用ナイフ４
+ステータス体５ 攻撃力０ 防御力０ SAN値１２０ 幸運値１０/１００ スキルツリー
+ステータス体５ 攻撃力０ 防御力０ SAN値１２０ 幸運値１０/１００ スキルツリー
+祭祀
+  スキルツリー 祈祷追加
+2ダメージブロック
+１ダメージ与える
+幸運値を参照して割合で避ける
+どんすた のぱくりでいんじゃね 絵は
+防御仮４
+腐敗４
+ステータス体５ 攻撃力０ 防御力０ SAN値１１０ 幸運値１０/８０ スキルツリー
+ステータス体５ 攻撃力０ 防御力０ SAN値１１０ 幸運値１０/８０ スキルツリー
+死者使役２
+死術師
+  スキルツリー 敵を倒すと、正気度が一定確率で貝吹
+野蛮人 
+ステータス体１５ 攻撃力１ 防御力０ SAN値１００ 幸運値１０/１００ スキルツリー
+ステータス体１５ 攻撃力１ 防御力０ SAN値１００ 幸運値１０/１００ スキルツリー
+頭付き５
+  スキルツリー 敵を倒すと一定確率回復
+防御仮５
+詠唱２
+  スキルツリー お金を多くもらえる
+ステータス体１０ 攻撃力０ 防御力１ SAN値７０ 幸運値１０/１００ スキルツリー
+防御魔法４
+攻撃魔法４
+イッコル
+ステータス体１０ 攻撃力０ 防御力１ SAN値７０ 幸運値１０/１００ スキルツリー
+
+コンセプト
+Summary Document Introduction The narrative begins with an individual awakening in a surreal and distorted realm, where the world as they knew it has ended. This place is enveloped in a sticky darkness, devoid of sky or ground, and filled with unsettling, shifting forms that defy comprehension. The protagonist struggles with their sense of reality, questioning whether they are dreaming, as their memories and identity remain elusive. Key Themes and Elements Surreal Environment: The setting is a bizarre and otherworldly domain, characterized by a lack of familiar structures and filled with amorphous, eye-like figures that dissolve upon scrutiny. Loss of Identity: The protagonist cannot recall their name or the reason for their presence in this realm, only remembering their recent experience on a commuter train. Unintelligible Communication: The protagonist perceives a non-verbal "sound" that resonates through their bones, conveying an incomprehensible yet disturbingly understandable message. Existential Dread: The narrative evokes a sense of dread and erosion of sanity as the protagonist becomes aware of a massive shadow in the distance. Game Mechanics and Concepts Character Roles: Various roles such as "死術師" (Death Sorcerer), "放浪者" (Wanderer), and "暗殺者" (Assassin) are mentioned, each with specific attributes and skills. Attributes and Skills: Characters have attributes like health, attack, defense, SAN (sanity) value, and luck. Skills include actions like "拳" (Fist), "受け流し" (Parry), and "避ける" (Dodge). Card System: The game involves a card-based system with fusion attributes, allowing for strategic gameplay. Players can draw from a deck, and used cards go to a graveyard. SAN Value: Sanity is a critical aspect, with the loss of SAN leading to defeat. Encounters with "深きもの" (Deep Ones) can trigger illusory battles that reduce SAN. Exploration and Choice: Players navigate through various scenes, making choices that affect their path. Low SAN can obscure decision-making. Mythos and Lore Cthulhu Mythos Influence: The game incorporates elements from the Cthulhu Mythos, with references to "古き神々" (Old Gods) and "奈落の使徒" (Abyssal Apostles). Creation of Myths: The narrative suggests the possibility of creating new myths, blending existing mythological elements with original concepts. Forbidden Knowledge: Themes of forbidden rituals and ancient knowledge are prevalent, with references to "禁術" (Forbidden Arts) and "名もなき神々" (Nameless Gods). Conclusion The document outlines a complex narrative and gameplay system that intertwines existential horror with strategic card-based mechanics. Players are immersed in a world where reality is fluid, and sanity is a precious resource, navigating through a landscape influenced by Lovecraftian themes and original mythos creation. 
+要約文書 序章 物語は、個人が超現実的で歪んだ領域で目覚めるところから始まります。そこでは彼らが知っていた世界が終わっています。この場所は粘着性のある暗闇に包まれており、空や地面がなく、理解を超えた不安定で変化する形が満ちています。主人公は現実感に苦しみ、夢を見ているのかを問い、記憶やアイデンティティが曖昧なままです。 主要なテーマと要素 超現実的な環境: 設定は奇妙で異世界的な領域であり、親しみのある構造が欠如しており、凝視すると溶けるようなアメーバ状の目のような形が満ちています。 アイデンティティの喪失: 主人公は自分の名前やこの領域にいる理由を思い出せず、最近の通勤電車での経験だけを覚えています。 理解不能なコミュニケーション: 主人公は骨を通して共鳴する非言語的な「音」を感じ、それが理解不能でありながら不気味に理解できるメッセージを伝えます。 存在の恐怖: 物語は恐怖と正気の侵食を呼び起こし、主人公が遠くに巨大な影を認識するにつれてその感覚が強まります。    ゲームのメカニクスとコンセプト キャラクターの役割: 「死術師」、「放浪者」、「暗殺者」などの様々な役割が言及されており、それぞれに特定の属性とスキルがあります。 属性とスキル: キャラクターは健康、攻撃、防御、SAN（正気）値、運などの属性を持っています。スキルには「拳」、「受け流し」、「避ける」などのアクションが含まれます。 カードシステム: ゲームは融合属性を持つカードベースのシステムを含んでおり、戦略的なゲームプレイを可能にします。プレイヤーはデッキからカードを引き、使用済みのカードは墓地に送られます。 SAN値: 正気は重要な側面であり、SANの喪失は敗北につながります。「深きもの」との遭遇は幻覚的な戦闘を引き起こし、SANを減少させます。 探索と選択: プレイヤーは様々なシーンを通じてナビゲートし、道を決定する選択を行います。低いSANは意思決定を曇らせる可能性があります。 神話と伝承 クトゥルフ神話の影響: ゲームはクトゥルフ神話の要素を取り入れており、「古き神々」や「奈落の使徒」への言及があります。 神話の創造: 物語は既存の神話的要素とオリジナルのコンセプトを融合させ、新しい神話を創造する可能性を示唆しています。 禁じられた知識: 禁じられた儀式や古代の知識のテーマが蔓延しており、「禁術」や「名もなき神々」への言及があります。 結論 この文書は、存在の恐怖と戦略的なカードベースのメカニクスを絡めた複雑な物語とゲームシステムを概説しています。プレイヤーは現実が流動的で正気が貴重な資源である世界に没入し、ラヴクラフト的なテーマとオリジナルの神話創造に影響を受けた風景をナビゲートします。 
+ストーリー
+体験
+ジャンル
+対象
+リプレイ性のあるもの、何回もプレイしたくなる
+ストレスがない
+頭悪くさせたい
+ストーリーもある
+カードゲーム
+すれスパ、ぶろたと
+冒頭 目を覚ますと、世界はすでに終わっていた。  いや、違う。ここは世界ですらない。  辺り一面、粘ついた靄のような闇が広がっている。空はない。地面もない。ただ、よく見れば足元には無数の目がうごめいているように思える……が、凝視した瞬間、その形は崩れ、数式のように歪んで消えた。  「……夢か？」  そう思って、試しに頬をつねる。痛い。だが、痛みは感覚の証明にはならない。なぜなら、ここでは感覚すら異常だ。  自分の名前も、なぜここにいるのかも思い出せない。ただひとつ確かなのは——ほんの数分前まで、通勤電車に乗っていたはずだということ。  そのとき、足元から何かが響いた。正確には、言葉ではない「音」が、骨を通して脳に届いた。  「タ・ゴロ・ナフ… イア！ イア・シャッガイ…！」  言語のはずなのに理解できない。それでも、意味が分かってしまうような嫌な感覚。世界が、いや、「この領域」が呼吸するたび、自分の心が削られていく。  気づけば、遠くに巨大な影が見える。そ
+協力でおもしろい 
+クトゥルフ好きな人
+キャラ選択するときにストーリーが出るようにしてほしい 
+ローグライク
+飽きない
+限界を感じない体験
+ゲームとしての限界をなくしたい
+一つの要素で完成しないもの 
+若い人
+リアルタイム制 
+総合的にみたら今までにないもの
+カードゲームの範疇でありたい
+Steam系
+協力ゲーム 
+
+操作方法
+ゲームルール
+カード
+マウスだけで全部できるように
+チャットはキーボードで
+勝敗
+宝、敵の報酬
+スキルツリー 
+イベント系
+カード、 ゴールド、経験値（宝も）
+敵の精神力が０になったらHPも０になる
+敵のHPが０になったら
+基本的にはマウス、キーボードはショートカット的な役割
+経験値がたまると１スキルポイントを貰える。（経験値は原神方式）
+３ポイントとか必要な、スキルもある
+３ポイントとか必要な、スキルもある
+戦闘
+基本的にはすれスパ方式で一回強化がデフォ
+強化個体のカードがある
+ボロ小屋（HP回復）
+自分の精神力が０になったらHPも０になる
+自分のHPが０になったら
+スキルツリーは基本的に、3派生欲しい 
+カード強化場所
+カードを強化するカードで強化されたカード
+遺跡（スキルポイント付与）
+あたりイベントはコストを支払わない  確率だったりする
+SAN値によっては見える幅がかわる  マップは全部見えるのではなく少ししか見えない
+鍛冶屋でレベルが上がってるカードとクトゥルフ個体がある 
+場面 戦闘、ボロ小屋、儀式場、遺跡、イベント系、理不尽系、鍛冶屋、夢
+当たりイベント
+カスイベント
+カスイベントでは、確率でSAN値やHPが半分になったり 運によっては確実にしたりする
+場面は分岐を自分で選べる SAN値が低くなるとわからない
+確率イベント
+魔術師の家（カード忘却）
+場面は分岐を自分で選べる SAN値が低くなるとわからない
+商人（カード購入）
+敵遭遇イベント
+夢イベント
